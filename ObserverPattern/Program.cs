@@ -10,7 +10,7 @@ namespace ObserverPattern
     {
         //Observer pattern 
         //Let one or more objects be notified of state changes in other objects within system
-        //Provides: broadcast capabilities
+        //Provides: broadcast capabilities; events trigger
         //subject(post office) + observer(mailbox)
         static void Main(string[] args)
         {
